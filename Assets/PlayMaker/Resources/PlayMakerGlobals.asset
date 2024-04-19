@@ -71,3 +71,4 @@ MonoBehaviour:
   - movetowardsPlayer
   - ToGetHit
   - global int
+  - player hit
