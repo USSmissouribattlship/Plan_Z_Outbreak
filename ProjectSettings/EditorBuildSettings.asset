@@ -15,8 +15,14 @@ EditorBuildSettings:
     path: Assets/Scenes(Levels)/deathscreen 1.unity
     guid: b7029beb50d1aeb4c81d3245639deffe
   - enabled: 1
+    path: Assets/Scenes(Levels)/restart.unity
+    guid: 677e842f4c2ed2e4898b00aa8f73e44b
+  - enabled: 1
     path: Assets/Scenes(Levels)/LevelTwo.unity
     guid: 9fc43f4cdf0263e448d52c01bc3d7e4d
+  - enabled: 1
+    path: Assets/Scenes(Levels)/Endless.unity
+    guid: 32f745d332792834cb354a18b9df78b4
   - enabled: 1
     path: Assets/Scenes(Levels)/Winscreen.unity
     guid: ca8727576f97a9d4f9364dac1c4a3dd9

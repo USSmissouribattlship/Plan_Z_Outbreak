@@ -33,6 +33,18 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: 1
+    - useVariable: 1
+      name: Score
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: health
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 3
     boolVariables: []
     stringVariables: []
     vector2Variables: []
@@ -54,7 +66,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000
   events:
   - movetowardsPlayer
   - ToGetHit
